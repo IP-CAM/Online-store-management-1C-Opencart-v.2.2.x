@@ -1,5 +1,5 @@
-# Управление интернет-магазином 1С UIM для 1С Управление торговлей 11.2
+# Online store management 1C UIM for 1C Trade management 11.2
 
-Текущая версия - 1.3.0.2
+Current version - 1.3.0.2
 
-Последний тест на OpenCart 2.2.0.0
+Latest test on OpenCart 2.2.0.0 
